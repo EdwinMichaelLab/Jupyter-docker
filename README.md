@@ -10,3 +10,6 @@
 
 # Jupyter notebook + Docker
 - https://towardsdatascience.com/how-to-run-jupyter-notebook-on-docker-7c9748ed209f
+
+# Imran's python seir codes
+- https://github.com/EdwinMichaelLab/COVID-SEIR-Python
