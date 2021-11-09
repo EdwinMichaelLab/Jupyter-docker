@@ -13,3 +13,6 @@
 
 # Imran's python seir codes
 - https://github.com/EdwinMichaelLab/COVID-SEIR-Python
+
+# other good site for learning Python, docker, numpy, panda, etc.
+- https://github.com/ihmeuw/ihme-python-course
